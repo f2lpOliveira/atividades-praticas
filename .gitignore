@@ -1,0 +1,7 @@
+.breakpoints
+.ccls-cache/
+main
+.replit
+.cache/
+Makefile
+replit.nix
